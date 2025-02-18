@@ -18,7 +18,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/php-rest-api-crud.git
+git clone https://github.com/42webok/Rest-Api-Php.git
 Import the database (database.sql) into MySQL
 Configure the database connection in config.php
 Start a local server XAMPP
